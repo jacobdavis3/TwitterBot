@@ -15,9 +15,10 @@ def get_quotes_from_page(url):
 
     quotes = []
     for quote in quote_elements:
-        text = quote.find('div', class_='quoteText').get_text()
-        author = quote.find('span', class_='authorOrTitle').get_text()
-        quotes.append(f"{text}) - {author}")
+        text = quote.find('div', class_='quoteText').get_text(strip=True)
+        #author = quote.find('span', class_='authorOrTitle').get_text()
+        if len(text) <= 280:
+            quotes.append(f"{text}")# – {author}")
 
     return quotes
 
