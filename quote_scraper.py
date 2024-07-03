@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
+
 def get_quotes_from_page(url):
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
@@ -21,8 +22,7 @@ def get_quotes_from_page(url):
 
     return quotes
 
-
-def scrape_quotes(base_url, max_pages=120):
+def scrape_quotes(base_url, max_pages=100):
     all_quotes = []
     page_num = 1
 
@@ -40,6 +40,8 @@ def scrape_quotes(base_url, max_pages=120):
     return all_quotes[:max_pages * 30]  # Limit to the desired number of quotes
 
 def main():
+    print('Going to sleep for 20 secs')
+    time.sleep(20)
     print('Starting to scrape')
     # Goodreads popular quotes landing page
     # https://www.goodreads.com/quotes?page=1
@@ -49,7 +51,7 @@ def main():
     quotes = scrape_quotes(quotes_url, max_pages=100)
 
     # Save the quotes to a file
-    with open('quotes3.txt', 'w') as file:
+    with open('quotes2.txt', 'w') as file:
         for quote in quotes:
             file.write(f"{quote}\n")
 
@@ -58,3 +60,5 @@ def main():
 if __name__ == "__main__":
     main()
 
+
+    

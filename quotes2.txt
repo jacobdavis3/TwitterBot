@@ -891,8 +891,8 @@
 “Art is the lie that enables us to realize the truth.”―Pablo Picasso
 “The scariest moment is always just before you start.”―Stephen King,On Writing: A Memoir of the Craft
 “Nowadays people know the price of everything and the value of nothing.”―Oscar Wilde,The Picture of Dorian Gray
-“Some old wounds never truly heal, and bleed again at the slightest word.”―George R.R. Martin,A Game of Thrones
 “All I ever wanted was to reach out and touch another human being not just with my hands but with my heart.”―Tahereh Mafi,Shatter Me
+“Some old wounds never truly heal, and bleed again at the slightest word.”―George R.R. Martin,A Game of Thrones
 “I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.”―Albert Einstein
 “Dwell on the beauty of life. Watch the stars, and see yourself running with them.”―Marcus Aurelius,Meditations
 “The minute I heard my first love story,I started looking for you, not knowinghow blind that was.Lovers don't finally meet somewhere.They're in each other all along.”―Mawlana Jalal-al-Din Rumi,The Illuminated Rumi
@@ -1099,8 +1099,8 @@
 “It isn't possible to love and part. You will wish that it was. You can transmute love, ignore it, muddle it, but you can never pull it out of you. I know by experience that the poets are right: love is eternal.”―E.M. Forster,A Room with a View
 “Things we lose have a way of coming back to us in the end, if not always in the way we expect.”―JK Rowling,Harry Potter and the Order of the Phoenix
 “If you're losing your soul and you know it, then you've still got a soul left to lose”―charles bukowski
-“Maybe who we are isn't so much about what we do, but rather what we're capable of when we least expect it.”―Jodi Picoult,My Sister’s Keeper
 “To the stars who listen—and the dreams that are answered.”―Sarah J. Maas,A Court of Mist and Fury
+“Maybe who we are isn't so much about what we do, but rather what we're capable of when we least expect it.”―Jodi Picoult,My Sister’s Keeper
 “I am a cage, in search of a bird.”―Franz Kafka
 “War must be, while we defend our lives against a destroyer who would devour all; but I do not love the bright sword for its sharpness, nor the arrow for its swiftness, nor the warrior for his glory. I love only that which they defend.”―J.R.R. Tolkien,The Two Towers
 “The function of prayer is not to influence God, but rather to change the nature of the one who prays.”―Soren Kierkegaard
@@ -1158,8 +1158,8 @@
 “In ancient times cats were worshipped as gods; they have not forgotten this.”―Terry Pratchett
 “When we are no longer able to change a situation, we are challenged to change ourselves.”―Viktor E. Frankl,Man’s Search for Meaning
 “I, myself, am made entirely of flaws, stitched together with good intentions.”―Augusten Burroughs
-“The secret of health for both mind and body is not to mourn for the past, nor to worry about the future, but to live the present moment wisely and earnestly.”―Bukkyo Dendo Kyokai,The Teaching of Buddha
 “Even death has a heart.”―Markus Zusak,The Book Thief
+“The secret of health for both mind and body is not to mourn for the past, nor to worry about the future, but to live the present moment wisely and earnestly.”―Bukkyo Dendo Kyokai,The Teaching of Buddha
 “There are no faster or firmer friendships than those formed between people who love the same books.”―Irving Stone,Clarence Darrow for the Defense
 “Fighting for peace is like screwing for virginity.”―George Carlin
 “You're not to be so blind with patriotism that you can't face reality. Wrong is wrong, no matter who does it or says it.”―Malcolm X,By Any Means Necessary (Malcolm X Speeches and Writings)
@@ -1544,8 +1544,8 @@
 “To love oneself is the beginning of a lifelong romance.”―Oscar Wilde,An Ideal Husband
 “One day you will kiss a man you can't breathe without, and find that breath is of little consequence.”―Karen Marie Moning,Bloodfever
 “Trying to define yourself is like trying to bite your own teeth.”―Alan Watts
-“Once you had put the pieces back together, even though you may look intact, you were never quite the same as you'd been before the fall.”―Jodi Picoult
 “Books are easily destroyed. But words will live as long as people can remember them.”―Tahereh Mafi,Unravel Me
+“Once you had put the pieces back together, even though you may look intact, you were never quite the same as you'd been before the fall.”―Jodi Picoult
 “And I asked myself about the present: how wide it was, how deep it was, how much was mine to keep.”―Kurt Vonnegut,Slaughterhouse-Five
 “People have forgotten this truth," the fox said. "But you mustn’t forget it. You become responsible forever for what you’ve tamed. You’re responsible for your rose.”―Antoine de Saint-Exupéry,The Little Prince
 “It does not matter how slowly you go as long as you do not stop.”―Confucius
@@ -1914,8 +1914,8 @@
 “When I was your age, television was called books.”―William Goldman,The Princess Bride
 “Boring damned people. All over the earth. Propagating more boring damned people. What a horror show. The earth swarmed with them.”―Charles Bukowski
 “If we couldn't laugh we would all go insane.”―Robert Frost
-“It gives me strength to have somebody to fight for; I can never fight for myself, but, for others, I can kill.”―Emilie Autumn,The Asylum for Wayward Victorian Girls
 “I like too many things and get all confused and hung-up running from one falling star to another till i drop. This is the night, what it does to you. I had nothing to offer anybody except my own confusion.”―Jack Kerouac
+“It gives me strength to have somebody to fight for; I can never fight for myself, but, for others, I can kill.”―Emilie Autumn,The Asylum for Wayward Victorian Girls
 “Always go to other people's funerals, otherwise they won't come to yours.”―Yogi Berra,When You Come to a Fork in the Road, Take It!: Inspiration and Wisdom from One of Baseball's Greatest Heroes
 “You're a painter. You're a baker. You like to sleep with the windows open. You never take sugar in your tea. And you always double-knot your shoelaces.”―Suzanne Collins,Mockingjay
 “It's not always necessary to be strong, but to feel strong.”―Jon Krakauer,Into the Wild
@@ -2022,8 +2022,8 @@
 “You are not rich until you have a rich heart.”―Roy T. Bennett,The Light in the Heart
 “Better to die fighting for freedom then be a prisoner all the days of your life.”―Bob Marley
 “To love another person is to see the face of God.”―Victor Hugo,Les Misérables
-“One person's craziness is another person's reality.”―Tim Burton
 “I hate to advocate drugs, alcohol, violence, or insanity to anyone, but they've always worked for me.”―Hunter S. Thompson
+“One person's craziness is another person's reality.”―Tim Burton
 “Education: the path from cocky ignorance to miserable uncertainty.”―Mark Twain
 “If you're too open-minded; your brains will fall out.”―Lawrence Ferlinghetti
 “Try to be a rainbow in someone's cloud.”―Maya Angelou,Letter to My Daughter
@@ -2187,8 +2187,8 @@
 “A love like that was a serious illness, an illness from which you never entirely recover.”―Charles Bukowski,The People Look Like Flowers at Last
 “Until you make the unconscious conscious, it will direct your life and you will call it fate.”―C.G. Jung
 “Either you deal with what is the reality, or you can be sure that the reality is going to deal with you.”―Alex Haley
-“If the real world were a book, it would never find a publisher. Overlong, detailed to the point of distraction-and ultimately, without a major resolution.”―Jasper Fforde,Something Rotten
 “Ignite, my love. Ignite.”―Tahereh Mafi,Ignite Me
+“If the real world were a book, it would never find a publisher. Overlong, detailed to the point of distraction-and ultimately, without a major resolution.”―Jasper Fforde,Something Rotten
 “The more I read, the more I acquire, the more certain I am that I know nothing.”―Voltaire
 “If, then, I were asked for the most important advice I could give, that which I considered to be the most useful to the men of our century, I should simply say: in the name of God, stop a moment, cease your work, look around you.”―Leo Tolstoy,Essays, Letters and Miscellanies
 “You should write because you love the shape of stories and sentences and the creation of different words on a page. Writing comes from reading, and reading is the finest teacher of how to write.”―Annie Proulx
@@ -2299,8 +2299,8 @@
 “The best way to not feel hopeless is to get up and do something. Don’t wait for good things to happen to you. If you go out and make some good things happen, you will fill the world with hope, you will fill yourself with hope.”―Barack Obama
 “We do not need magic to transform our world. We carry all of the power we need inside ourselves already.”―J.K. Rowling,Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination
 “I got schooled this yearbyaboy.A boy that I'mseriously, deeply, madly, incredibly, and undeniablyinlovewith.And he taught me the most important thing ofall...To put theemphasisOnlife.”―Colleen Hoover,Slammed
-“Watch out for intellect,because it knows so much it knows nothingand leaves you hanging upside down,mouthing knowledge as your heartfalls out of your mouth.”―Anne Sexton,The Complete Poems
 “Only you can control your future.”―Dr. Seuss
+“Watch out for intellect,because it knows so much it knows nothingand leaves you hanging upside down,mouthing knowledge as your heartfalls out of your mouth.”―Anne Sexton,The Complete Poems
 “Freedom lies in being bold.”―Robert Frost
 “It isn't what we say or think that defines us, but what we do.”―Jane Austen,Sense and Sensibility
 “I don't go out with strangers," I said."Good thing I do. I'll pick you up at five.”―Becca Fitzpatrick,Hush, Hush
@@ -2366,10 +2366,10 @@
 “Another belief of mine: that everyone else my age is an adult, whereas I am merely in disguise.”―Margaret Atwood,Cat’s Eye
 “I’m on a roller coaster that only goes up, my friend.”―John Green,The Fault in Our Stars
 “Do not set aside your happiness. Do not wait to be happy in the future. The best time to be happy is always now.”―Roy T. Bennett
+“But how could you live and have no story to tell?”―Fyodor Dostoevsky,White Nights
 “Well, she's not responding to my advances," he observed more brightly than he felt, "so she must be dead.""Or she's a woman of good taste and sense.”―Cassandra Clare,Clockwork Angel
 “I know how devastated you must be to miss me, but leave a message, and I'll try to ease your agony”―Richelle Mead,Blood Promise
 “For to know a man's library is, in some measure, to know his mind.”―Geraldine Brooks,March
-“But how could you live and have no story to tell?”―Fyodor Dostoevsky,White Nights
 “If I read a book and it makes my whole body so cold no fire can ever warm me, I know that is poetry.”―Emily Dickinson
 “Maybe this world is another planet’s hell.”―Aldous Huxley
 “The way to get started is to quit talking and begin doing. ”―Walt Disney
@@ -2581,11 +2581,11 @@
 “What do you fear, lady?" [Aragorn] asked."A cage," [Éowyn] said. "To stay behind bars, until use and old age accept them, and all chance of doing great deeds is gone beyond recall or desire.”―J.R.R. Tolkien,The Return of the King
 “Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.”―Robert Frost
 “Never attempt to teach a pig to sing; it wastes your time and annoys the pig.”―Robert Heinlein,Time Enough for Love
+“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “How happy is the blameless vestal’s lot!The world forgetting, by the world forgot.Eternal sunshine of the spotless mind!Each pray’r accepted, and each wish resign’d”―Alexander Pope,Eloisa to Abelard
 “I address you all tonight for who you truly are: wizards, mermaids, travelers, adventurers, and magicians. You are the true dreamers.”―Brian Selznick,The Invention of Hugo Cabret
 “The thought of suicide is a great consolation: by means of it one gets through many a dark night.”―Nietzsche
 “You think the dead we loved ever truly leave us? You think that we don't recall them more clearly in times of great trouble?”―J.K. Rowling,Harry Potter and the Prisoner of Azkaban
-“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “All humans make mistakes. What determines a person's character aren't the mistakes we make. It's how we take those mistakes and turn them into lessons rather than excuses.”―Colleen Hoover,It Ends with Us
 “I'm not a religious person but I do sometimes think God made you for me.”―Sally Rooney,Normal People
 “One must dare to be happy. ”―Gertrude Stein
@@ -2608,11 +2608,11 @@
 “What do you fear, lady?" [Aragorn] asked."A cage," [Éowyn] said. "To stay behind bars, until use and old age accept them, and all chance of doing great deeds is gone beyond recall or desire.”―J.R.R. Tolkien,The Return of the King
 “Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.”―Robert Frost
 “Never attempt to teach a pig to sing; it wastes your time and annoys the pig.”―Robert Heinlein,Time Enough for Love
+“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “How happy is the blameless vestal’s lot!The world forgetting, by the world forgot.Eternal sunshine of the spotless mind!Each pray’r accepted, and each wish resign’d”―Alexander Pope,Eloisa to Abelard
 “I address you all tonight for who you truly are: wizards, mermaids, travelers, adventurers, and magicians. You are the true dreamers.”―Brian Selznick,The Invention of Hugo Cabret
 “The thought of suicide is a great consolation: by means of it one gets through many a dark night.”―Nietzsche
 “You think the dead we loved ever truly leave us? You think that we don't recall them more clearly in times of great trouble?”―J.K. Rowling,Harry Potter and the Prisoner of Azkaban
-“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “All humans make mistakes. What determines a person's character aren't the mistakes we make. It's how we take those mistakes and turn them into lessons rather than excuses.”―Colleen Hoover,It Ends with Us
 “I'm not a religious person but I do sometimes think God made you for me.”―Sally Rooney,Normal People
 “One must dare to be happy. ”―Gertrude Stein
@@ -2635,11 +2635,11 @@
 “What do you fear, lady?" [Aragorn] asked."A cage," [Éowyn] said. "To stay behind bars, until use and old age accept them, and all chance of doing great deeds is gone beyond recall or desire.”―J.R.R. Tolkien,The Return of the King
 “Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.”―Robert Frost
 “Never attempt to teach a pig to sing; it wastes your time and annoys the pig.”―Robert Heinlein,Time Enough for Love
+“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “How happy is the blameless vestal’s lot!The world forgetting, by the world forgot.Eternal sunshine of the spotless mind!Each pray’r accepted, and each wish resign’d”―Alexander Pope,Eloisa to Abelard
 “I address you all tonight for who you truly are: wizards, mermaids, travelers, adventurers, and magicians. You are the true dreamers.”―Brian Selznick,The Invention of Hugo Cabret
 “The thought of suicide is a great consolation: by means of it one gets through many a dark night.”―Nietzsche
 “You think the dead we loved ever truly leave us? You think that we don't recall them more clearly in times of great trouble?”―J.K. Rowling,Harry Potter and the Prisoner of Azkaban
-“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “All humans make mistakes. What determines a person's character aren't the mistakes we make. It's how we take those mistakes and turn them into lessons rather than excuses.”―Colleen Hoover,It Ends with Us
 “I'm not a religious person but I do sometimes think God made you for me.”―Sally Rooney,Normal People
 “One must dare to be happy. ”―Gertrude Stein
@@ -2662,11 +2662,11 @@
 “What do you fear, lady?" [Aragorn] asked."A cage," [Éowyn] said. "To stay behind bars, until use and old age accept them, and all chance of doing great deeds is gone beyond recall or desire.”―J.R.R. Tolkien,The Return of the King
 “Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.”―Robert Frost
 “Never attempt to teach a pig to sing; it wastes your time and annoys the pig.”―Robert Heinlein,Time Enough for Love
+“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “How happy is the blameless vestal’s lot!The world forgetting, by the world forgot.Eternal sunshine of the spotless mind!Each pray’r accepted, and each wish resign’d”―Alexander Pope,Eloisa to Abelard
 “I address you all tonight for who you truly are: wizards, mermaids, travelers, adventurers, and magicians. You are the true dreamers.”―Brian Selznick,The Invention of Hugo Cabret
 “The thought of suicide is a great consolation: by means of it one gets through many a dark night.”―Nietzsche
 “You think the dead we loved ever truly leave us? You think that we don't recall them more clearly in times of great trouble?”―J.K. Rowling,Harry Potter and the Prisoner of Azkaban
-“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “All humans make mistakes. What determines a person's character aren't the mistakes we make. It's how we take those mistakes and turn them into lessons rather than excuses.”―Colleen Hoover,It Ends with Us
 “I'm not a religious person but I do sometimes think God made you for me.”―Sally Rooney,Normal People
 “One must dare to be happy. ”―Gertrude Stein
@@ -2689,11 +2689,11 @@
 “What do you fear, lady?" [Aragorn] asked."A cage," [Éowyn] said. "To stay behind bars, until use and old age accept them, and all chance of doing great deeds is gone beyond recall or desire.”―J.R.R. Tolkien,The Return of the King
 “Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.”―Robert Frost
 “Never attempt to teach a pig to sing; it wastes your time and annoys the pig.”―Robert Heinlein,Time Enough for Love
+“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “How happy is the blameless vestal’s lot!The world forgetting, by the world forgot.Eternal sunshine of the spotless mind!Each pray’r accepted, and each wish resign’d”―Alexander Pope,Eloisa to Abelard
 “I address you all tonight for who you truly are: wizards, mermaids, travelers, adventurers, and magicians. You are the true dreamers.”―Brian Selznick,The Invention of Hugo Cabret
 “The thought of suicide is a great consolation: by means of it one gets through many a dark night.”―Nietzsche
 “You think the dead we loved ever truly leave us? You think that we don't recall them more clearly in times of great trouble?”―J.K. Rowling,Harry Potter and the Prisoner of Azkaban
-“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “All humans make mistakes. What determines a person's character aren't the mistakes we make. It's how we take those mistakes and turn them into lessons rather than excuses.”―Colleen Hoover,It Ends with Us
 “I'm not a religious person but I do sometimes think God made you for me.”―Sally Rooney,Normal People
 “One must dare to be happy. ”―Gertrude Stein
@@ -2716,11 +2716,11 @@
 “What do you fear, lady?" [Aragorn] asked."A cage," [Éowyn] said. "To stay behind bars, until use and old age accept them, and all chance of doing great deeds is gone beyond recall or desire.”―J.R.R. Tolkien,The Return of the King
 “Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.”―Robert Frost
 “Never attempt to teach a pig to sing; it wastes your time and annoys the pig.”―Robert Heinlein,Time Enough for Love
+“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “How happy is the blameless vestal’s lot!The world forgetting, by the world forgot.Eternal sunshine of the spotless mind!Each pray’r accepted, and each wish resign’d”―Alexander Pope,Eloisa to Abelard
 “I address you all tonight for who you truly are: wizards, mermaids, travelers, adventurers, and magicians. You are the true dreamers.”―Brian Selznick,The Invention of Hugo Cabret
 “The thought of suicide is a great consolation: by means of it one gets through many a dark night.”―Nietzsche
 “You think the dead we loved ever truly leave us? You think that we don't recall them more clearly in times of great trouble?”―J.K. Rowling,Harry Potter and the Prisoner of Azkaban
-“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “All humans make mistakes. What determines a person's character aren't the mistakes we make. It's how we take those mistakes and turn them into lessons rather than excuses.”―Colleen Hoover,It Ends with Us
 “I'm not a religious person but I do sometimes think God made you for me.”―Sally Rooney,Normal People
 “One must dare to be happy. ”―Gertrude Stein
@@ -2743,11 +2743,11 @@
 “What do you fear, lady?" [Aragorn] asked."A cage," [Éowyn] said. "To stay behind bars, until use and old age accept them, and all chance of doing great deeds is gone beyond recall or desire.”―J.R.R. Tolkien,The Return of the King
 “Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.”―Robert Frost
 “Never attempt to teach a pig to sing; it wastes your time and annoys the pig.”―Robert Heinlein,Time Enough for Love
+“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “How happy is the blameless vestal’s lot!The world forgetting, by the world forgot.Eternal sunshine of the spotless mind!Each pray’r accepted, and each wish resign’d”―Alexander Pope,Eloisa to Abelard
 “I address you all tonight for who you truly are: wizards, mermaids, travelers, adventurers, and magicians. You are the true dreamers.”―Brian Selznick,The Invention of Hugo Cabret
 “The thought of suicide is a great consolation: by means of it one gets through many a dark night.”―Nietzsche
 “You think the dead we loved ever truly leave us? You think that we don't recall them more clearly in times of great trouble?”―J.K. Rowling,Harry Potter and the Prisoner of Azkaban
-“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “All humans make mistakes. What determines a person's character aren't the mistakes we make. It's how we take those mistakes and turn them into lessons rather than excuses.”―Colleen Hoover,It Ends with Us
 “I'm not a religious person but I do sometimes think God made you for me.”―Sally Rooney,Normal People
 “One must dare to be happy. ”―Gertrude Stein
@@ -2770,11 +2770,11 @@
 “What do you fear, lady?" [Aragorn] asked."A cage," [Éowyn] said. "To stay behind bars, until use and old age accept them, and all chance of doing great deeds is gone beyond recall or desire.”―J.R.R. Tolkien,The Return of the King
 “Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.”―Robert Frost
 “Never attempt to teach a pig to sing; it wastes your time and annoys the pig.”―Robert Heinlein,Time Enough for Love
+“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “How happy is the blameless vestal’s lot!The world forgetting, by the world forgot.Eternal sunshine of the spotless mind!Each pray’r accepted, and each wish resign’d”―Alexander Pope,Eloisa to Abelard
 “I address you all tonight for who you truly are: wizards, mermaids, travelers, adventurers, and magicians. You are the true dreamers.”―Brian Selznick,The Invention of Hugo Cabret
 “The thought of suicide is a great consolation: by means of it one gets through many a dark night.”―Nietzsche
 “You think the dead we loved ever truly leave us? You think that we don't recall them more clearly in times of great trouble?”―J.K. Rowling,Harry Potter and the Prisoner of Azkaban
-“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “All humans make mistakes. What determines a person's character aren't the mistakes we make. It's how we take those mistakes and turn them into lessons rather than excuses.”―Colleen Hoover,It Ends with Us
 “I'm not a religious person but I do sometimes think God made you for me.”―Sally Rooney,Normal People
 “One must dare to be happy. ”―Gertrude Stein
@@ -2797,11 +2797,11 @@
 “What do you fear, lady?" [Aragorn] asked."A cage," [Éowyn] said. "To stay behind bars, until use and old age accept them, and all chance of doing great deeds is gone beyond recall or desire.”―J.R.R. Tolkien,The Return of the King
 “Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.”―Robert Frost
 “Never attempt to teach a pig to sing; it wastes your time and annoys the pig.”―Robert Heinlein,Time Enough for Love
+“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “How happy is the blameless vestal’s lot!The world forgetting, by the world forgot.Eternal sunshine of the spotless mind!Each pray’r accepted, and each wish resign’d”―Alexander Pope,Eloisa to Abelard
 “I address you all tonight for who you truly are: wizards, mermaids, travelers, adventurers, and magicians. You are the true dreamers.”―Brian Selznick,The Invention of Hugo Cabret
 “The thought of suicide is a great consolation: by means of it one gets through many a dark night.”―Nietzsche
 “You think the dead we loved ever truly leave us? You think that we don't recall them more clearly in times of great trouble?”―J.K. Rowling,Harry Potter and the Prisoner of Azkaban
-“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “All humans make mistakes. What determines a person's character aren't the mistakes we make. It's how we take those mistakes and turn them into lessons rather than excuses.”―Colleen Hoover,It Ends with Us
 “I'm not a religious person but I do sometimes think God made you for me.”―Sally Rooney,Normal People
 “One must dare to be happy. ”―Gertrude Stein
@@ -2824,11 +2824,11 @@
 “What do you fear, lady?" [Aragorn] asked."A cage," [Éowyn] said. "To stay behind bars, until use and old age accept them, and all chance of doing great deeds is gone beyond recall or desire.”―J.R.R. Tolkien,The Return of the King
 “Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.”―Robert Frost
 “Never attempt to teach a pig to sing; it wastes your time and annoys the pig.”―Robert Heinlein,Time Enough for Love
+“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “How happy is the blameless vestal’s lot!The world forgetting, by the world forgot.Eternal sunshine of the spotless mind!Each pray’r accepted, and each wish resign’d”―Alexander Pope,Eloisa to Abelard
 “I address you all tonight for who you truly are: wizards, mermaids, travelers, adventurers, and magicians. You are the true dreamers.”―Brian Selznick,The Invention of Hugo Cabret
 “The thought of suicide is a great consolation: by means of it one gets through many a dark night.”―Nietzsche
 “You think the dead we loved ever truly leave us? You think that we don't recall them more clearly in times of great trouble?”―J.K. Rowling,Harry Potter and the Prisoner of Azkaban
-“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “All humans make mistakes. What determines a person's character aren't the mistakes we make. It's how we take those mistakes and turn them into lessons rather than excuses.”―Colleen Hoover,It Ends with Us
 “I'm not a religious person but I do sometimes think God made you for me.”―Sally Rooney,Normal People
 “One must dare to be happy. ”―Gertrude Stein
@@ -2851,11 +2851,11 @@
 “What do you fear, lady?" [Aragorn] asked."A cage," [Éowyn] said. "To stay behind bars, until use and old age accept them, and all chance of doing great deeds is gone beyond recall or desire.”―J.R.R. Tolkien,The Return of the King
 “Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.”―Robert Frost
 “Never attempt to teach a pig to sing; it wastes your time and annoys the pig.”―Robert Heinlein,Time Enough for Love
+“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “How happy is the blameless vestal’s lot!The world forgetting, by the world forgot.Eternal sunshine of the spotless mind!Each pray’r accepted, and each wish resign’d”―Alexander Pope,Eloisa to Abelard
 “I address you all tonight for who you truly are: wizards, mermaids, travelers, adventurers, and magicians. You are the true dreamers.”―Brian Selznick,The Invention of Hugo Cabret
 “The thought of suicide is a great consolation: by means of it one gets through many a dark night.”―Nietzsche
 “You think the dead we loved ever truly leave us? You think that we don't recall them more clearly in times of great trouble?”―J.K. Rowling,Harry Potter and the Prisoner of Azkaban
-“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “All humans make mistakes. What determines a person's character aren't the mistakes we make. It's how we take those mistakes and turn them into lessons rather than excuses.”―Colleen Hoover,It Ends with Us
 “I'm not a religious person but I do sometimes think God made you for me.”―Sally Rooney,Normal People
 “One must dare to be happy. ”―Gertrude Stein
@@ -2878,11 +2878,11 @@
 “What do you fear, lady?" [Aragorn] asked."A cage," [Éowyn] said. "To stay behind bars, until use and old age accept them, and all chance of doing great deeds is gone beyond recall or desire.”―J.R.R. Tolkien,The Return of the King
 “Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.”―Robert Frost
 “Never attempt to teach a pig to sing; it wastes your time and annoys the pig.”―Robert Heinlein,Time Enough for Love
+“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “How happy is the blameless vestal’s lot!The world forgetting, by the world forgot.Eternal sunshine of the spotless mind!Each pray’r accepted, and each wish resign’d”―Alexander Pope,Eloisa to Abelard
 “I address you all tonight for who you truly are: wizards, mermaids, travelers, adventurers, and magicians. You are the true dreamers.”―Brian Selznick,The Invention of Hugo Cabret
 “The thought of suicide is a great consolation: by means of it one gets through many a dark night.”―Nietzsche
 “You think the dead we loved ever truly leave us? You think that we don't recall them more clearly in times of great trouble?”―J.K. Rowling,Harry Potter and the Prisoner of Azkaban
-“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “All humans make mistakes. What determines a person's character aren't the mistakes we make. It's how we take those mistakes and turn them into lessons rather than excuses.”―Colleen Hoover,It Ends with Us
 “I'm not a religious person but I do sometimes think God made you for me.”―Sally Rooney,Normal People
 “One must dare to be happy. ”―Gertrude Stein
@@ -2905,11 +2905,11 @@
 “What do you fear, lady?" [Aragorn] asked."A cage," [Éowyn] said. "To stay behind bars, until use and old age accept them, and all chance of doing great deeds is gone beyond recall or desire.”―J.R.R. Tolkien,The Return of the King
 “Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.”―Robert Frost
 “Never attempt to teach a pig to sing; it wastes your time and annoys the pig.”―Robert Heinlein,Time Enough for Love
+“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “How happy is the blameless vestal’s lot!The world forgetting, by the world forgot.Eternal sunshine of the spotless mind!Each pray’r accepted, and each wish resign’d”―Alexander Pope,Eloisa to Abelard
 “I address you all tonight for who you truly are: wizards, mermaids, travelers, adventurers, and magicians. You are the true dreamers.”―Brian Selznick,The Invention of Hugo Cabret
 “The thought of suicide is a great consolation: by means of it one gets through many a dark night.”―Nietzsche
 “You think the dead we loved ever truly leave us? You think that we don't recall them more clearly in times of great trouble?”―J.K. Rowling,Harry Potter and the Prisoner of Azkaban
-“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “All humans make mistakes. What determines a person's character aren't the mistakes we make. It's how we take those mistakes and turn them into lessons rather than excuses.”―Colleen Hoover,It Ends with Us
 “I'm not a religious person but I do sometimes think God made you for me.”―Sally Rooney,Normal People
 “One must dare to be happy. ”―Gertrude Stein
@@ -2932,11 +2932,11 @@
 “What do you fear, lady?" [Aragorn] asked."A cage," [Éowyn] said. "To stay behind bars, until use and old age accept them, and all chance of doing great deeds is gone beyond recall or desire.”―J.R.R. Tolkien,The Return of the King
 “Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.”―Robert Frost
 “Never attempt to teach a pig to sing; it wastes your time and annoys the pig.”―Robert Heinlein,Time Enough for Love
+“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “How happy is the blameless vestal’s lot!The world forgetting, by the world forgot.Eternal sunshine of the spotless mind!Each pray’r accepted, and each wish resign’d”―Alexander Pope,Eloisa to Abelard
 “I address you all tonight for who you truly are: wizards, mermaids, travelers, adventurers, and magicians. You are the true dreamers.”―Brian Selznick,The Invention of Hugo Cabret
 “The thought of suicide is a great consolation: by means of it one gets through many a dark night.”―Nietzsche
 “You think the dead we loved ever truly leave us? You think that we don't recall them more clearly in times of great trouble?”―J.K. Rowling,Harry Potter and the Prisoner of Azkaban
-“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “All humans make mistakes. What determines a person's character aren't the mistakes we make. It's how we take those mistakes and turn them into lessons rather than excuses.”―Colleen Hoover,It Ends with Us
 “I'm not a religious person but I do sometimes think God made you for me.”―Sally Rooney,Normal People
 “One must dare to be happy. ”―Gertrude Stein
@@ -2959,11 +2959,11 @@
 “What do you fear, lady?" [Aragorn] asked."A cage," [Éowyn] said. "To stay behind bars, until use and old age accept them, and all chance of doing great deeds is gone beyond recall or desire.”―J.R.R. Tolkien,The Return of the King
 “Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.”―Robert Frost
 “Never attempt to teach a pig to sing; it wastes your time and annoys the pig.”―Robert Heinlein,Time Enough for Love
+“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “How happy is the blameless vestal’s lot!The world forgetting, by the world forgot.Eternal sunshine of the spotless mind!Each pray’r accepted, and each wish resign’d”―Alexander Pope,Eloisa to Abelard
 “I address you all tonight for who you truly are: wizards, mermaids, travelers, adventurers, and magicians. You are the true dreamers.”―Brian Selznick,The Invention of Hugo Cabret
 “The thought of suicide is a great consolation: by means of it one gets through many a dark night.”―Nietzsche
 “You think the dead we loved ever truly leave us? You think that we don't recall them more clearly in times of great trouble?”―J.K. Rowling,Harry Potter and the Prisoner of Azkaban
-“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “All humans make mistakes. What determines a person's character aren't the mistakes we make. It's how we take those mistakes and turn them into lessons rather than excuses.”―Colleen Hoover,It Ends with Us
 “I'm not a religious person but I do sometimes think God made you for me.”―Sally Rooney,Normal People
 “One must dare to be happy. ”―Gertrude Stein
@@ -2986,11 +2986,11 @@
 “What do you fear, lady?" [Aragorn] asked."A cage," [Éowyn] said. "To stay behind bars, until use and old age accept them, and all chance of doing great deeds is gone beyond recall or desire.”―J.R.R. Tolkien,The Return of the King
 “Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.”―Robert Frost
 “Never attempt to teach a pig to sing; it wastes your time and annoys the pig.”―Robert Heinlein,Time Enough for Love
+“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “How happy is the blameless vestal’s lot!The world forgetting, by the world forgot.Eternal sunshine of the spotless mind!Each pray’r accepted, and each wish resign’d”―Alexander Pope,Eloisa to Abelard
 “I address you all tonight for who you truly are: wizards, mermaids, travelers, adventurers, and magicians. You are the true dreamers.”―Brian Selznick,The Invention of Hugo Cabret
 “The thought of suicide is a great consolation: by means of it one gets through many a dark night.”―Nietzsche
 “You think the dead we loved ever truly leave us? You think that we don't recall them more clearly in times of great trouble?”―J.K. Rowling,Harry Potter and the Prisoner of Azkaban
-“People, generally, suck.”―Christopher Moore,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
 “All humans make mistakes. What determines a person's character aren't the mistakes we make. It's how we take those mistakes and turn them into lessons rather than excuses.”―Colleen Hoover,It Ends with Us
 “I'm not a religious person but I do sometimes think God made you for me.”―Sally Rooney,Normal People
 “One must dare to be happy. ”―Gertrude Stein
