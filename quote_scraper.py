@@ -16,9 +16,8 @@ def get_quotes_from_page(url):
     quotes = []
     for quote in quote_elements:
         text = quote.find('div', class_='quoteText').get_text(strip=True)
-        #author = quote.find('span', class_='authorOrTitle').get_text()
         if len(text) <= 280:
-            quotes.append(f"{text}")# – {author}")
+            quotes.append(f"{text}")
 
     return quotes
 
@@ -27,7 +26,7 @@ def scrape_quotes(base_url, max_pages=100):
     all_quotes = []
     page_num = 1
 
-    while len(all_quotes) < max_pages * 10:
+    while len(all_quotes) < max_pages * 30:  # Counted 30 quotes per page
         url = f"{base_url}?page={page_num}/"
         quotes = get_quotes_from_page(url)
         if not quotes:
@@ -36,12 +35,16 @@ def scrape_quotes(base_url, max_pages=100):
         all_quotes.extend(quotes)
         print(f'Finished scraping page {page_num}')
         page_num += 1
-        time.sleep(1)
+        time.sleep(3)  # Not hammering server
 
-    return all_quotes[:max_pages * 10]
+    return all_quotes[:max_pages * 30]  # Limit to the desired number of quotes
 
 def main():
+    print('Going to sleep for 20 secs')
+    time.sleep(20)
+    print('Starting to scrape')
     # Goodreads popular quotes landing page
+    # https://www.goodreads.com/quotes?page=1
     quotes_url = 'https://www.goodreads.com/quotes'
 
     # Scrape up to 3000 quotes (100 pages)
@@ -56,3 +59,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
