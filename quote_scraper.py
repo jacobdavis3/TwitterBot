@@ -49,7 +49,7 @@ def main():
     quotes = scrape_quotes(quotes_url, max_pages=300)
 
     # Save the quotes to a file
-    with open('quotes2.txt', 'w') as file:
+    with open('quotes3.txt', 'w') as file:
         for quote in quotes:
             file.write(f"{quote}\n")
 
