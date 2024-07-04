@@ -10,4 +10,4 @@
 
 ### STEP 4: Look at hosting options
 
-![Inspirational Sunrise!](/assets/images/san-juan-mountains.jpg)
+![Inspirational Sunrise!](https://blog-content.ixigo.com/wp-content/uploads/2018/07/blog4.jpg)
