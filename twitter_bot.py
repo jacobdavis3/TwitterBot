@@ -59,7 +59,7 @@ def add_hashtag_to_tweet(tweet):
     "#QuoteOfTheDay", "#Quote", "#SuccessQuotes",
     "#LifeLessons", "#Inspire", "#Motivate", "#Achieve", "#Hustle",
     "#Perseverance", "#Ambition", "#Dedication", "#MindsetMatters", 
-    "#BookLovers", "#ArtDaily", "Euro2024",
+    "#BookLovers", "#ArtDaily", "#Euro2024",
 ]
 
     # Calculate remaining characters for hashtags
@@ -92,20 +92,17 @@ def post_tweet(api, tweet):
 
 def main():
     count = 0
-    while count < 15:
+    while count < 20:
         api = x_authentication()
         tweet = tweet_creation()
-        print(len(tweet.encode('utf-16-le')) // 2)
         tweet_with_hashtags = add_hashtag_to_tweet(tweet)
+
         # Ensure the final tweet length is within the limit
-        print(len(tweet_with_hashtags.encode('utf-16-le')) // 2)
         if len(tweet_with_hashtags) > 280:
             tweet_with_hashtags = tweet_with_hashtags[:279]  # Truncate if necessary
-        print(len(tweet_with_hashtags.encode('utf-16-le')) // 2)
-        print(tweet_with_hashtags)
         post_tweet(api, tweet_with_hashtags)
         count += 1
-        time.sleep(30)
+        time.sleep(1800)
 
 
 if __name__ == '__main__':
