@@ -1,6 +1,7 @@
 import tweepy
 import keys
 import random
+import time
 
 # Authenticate to X (Twitter)
 def x_authentication():
@@ -57,7 +58,8 @@ def add_hashtag_to_tweet(tweet):
     "#InspirationalQuotes", "#DailyInspiration", "#DailyMotivation",
     "#QuoteOfTheDay", "#Quote", "#SuccessQuotes",
     "#LifeLessons", "#Inspire", "#Motivate", "#Achieve", "#Hustle",
-    "#Perseverance", "#Ambition", "#Dedication", "#MindsetMatters",
+    "#Perseverance", "#Ambition", "#Dedication", "#MindsetMatters", 
+    "#BookLovers", "#ArtDaily", "Euro2024",
 ]
 
     # Calculate remaining characters for hashtags
@@ -89,17 +91,21 @@ def post_tweet(api, tweet):
 
 
 def main():
-    api = x_authentication()
-    tweet = tweet_creation()
-    print(len(tweet.encode('utf-16-le')) // 2)
-    tweet_with_hashtags = add_hashtag_to_tweet(tweet)
-    # Ensure the final tweet length is within the limit
-    print(len(tweet_with_hashtags.encode('utf-16-le')) // 2)
-    if len(tweet_with_hashtags) > 280:
-        tweet_with_hashtags = tweet_with_hashtags[:279]  # Truncate if necessary
-    print(len(tweet_with_hashtags.encode('utf-16-le')) // 2)
-    print(tweet_with_hashtags)
-    # post_tweet(api, tweet_with_hashtags)
+    count = 0
+    while count < 15:
+        api = x_authentication()
+        tweet = tweet_creation()
+        print(len(tweet.encode('utf-16-le')) // 2)
+        tweet_with_hashtags = add_hashtag_to_tweet(tweet)
+        # Ensure the final tweet length is within the limit
+        print(len(tweet_with_hashtags.encode('utf-16-le')) // 2)
+        if len(tweet_with_hashtags) > 280:
+            tweet_with_hashtags = tweet_with_hashtags[:279]  # Truncate if necessary
+        print(len(tweet_with_hashtags.encode('utf-16-le')) // 2)
+        print(tweet_with_hashtags)
+        post_tweet(api, tweet_with_hashtags)
+        count += 1
+        time.sleep(30)
 
 
 if __name__ == '__main__':
