@@ -46,6 +46,39 @@ def tweet_creation():
     author_bold = bold_text(author_raw)
     return f"{quote} ― {author_bold}"
 
+def add_hashtag_to_tweet(tweet):
+    hashtags = [
+    "#Motivation", "#Inspiration", "#Quotes", "#Life", "#Wisdom",
+    "#Success", "#Happiness", "#Love", "#Mindset", "#Goals",
+    "#PositiveVibes", "#SelfCare", "#SelfLove", "#Leadership",
+    "#Growth", "#Believe", "#DreamBig", "#PositiveThinking",
+    "#Focus", "#NeverGiveUp", "#Determination", "#Courage",
+    "#Strength", "#Mindfulness", "#Gratitude", "#MotivationalQuotes",
+    "#InspirationalQuotes", "#DailyInspiration", "#DailyMotivation",
+    "#QuoteOfTheDay", "#Quote", "#SuccessQuotes",
+    "#LifeLessons", "#Inspire", "#Motivate", "#Achieve", "#Hustle",
+    "#Perseverance", "#Ambition", "#Dedication", "#MindsetMatters",
+]
+
+    # Calculate remaining characters for hashtags
+    max_length = 280 - len(tweet) - 1  # 1 space for separation
+    available_hashtags = [h for h in hashtags if len(h) <= max_length]
+    
+    if available_hashtags:
+        random.shuffle(available_hashtags)
+        selected_hashtags = []
+        total_length = len(tweet) + 1
+        
+        for hashtag in available_hashtags:
+            if total_length + len(hashtag) + 1 <= 250:
+                selected_hashtags.append(hashtag)
+                total_length += len(hashtag) + 1
+        
+        hashtags_str = " ".join(selected_hashtags)
+        return f"{tweet} {hashtags_str}"
+    
+    return f"{tweet}"
+
 
 def post_tweet(api, tweet):
     try:
@@ -58,7 +91,14 @@ def post_tweet(api, tweet):
 def main():
     api = x_authentication()
     tweet = tweet_creation()
-    post_tweet(api, tweet)
+    tweet_with_hashtags = add_hashtag_to_tweet(tweet)
+    # Ensure the final tweet length is within the limit
+    print(len(tweet_with_hashtags))
+    if len(tweet_with_hashtags) > 280:
+        tweet_with_hashtags = tweet_with_hashtags[:279]  # Truncate if necessary
+    print(len(tweet_with_hashtags))
+    print(tweet_with_hashtags)
+    post_tweet(api, tweet_with_hashtags)
 
 
 if __name__ == '__main__':
