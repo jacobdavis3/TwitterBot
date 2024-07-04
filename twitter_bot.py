@@ -3,12 +3,22 @@ import keys
 import random
 
 
+'''
+return tweepy.Client(bearer_token=keys.Bearer_Token,
+                       consumer_key=keys.API_Key,
+                       consumer_secret=keys.API_Key_Secret,
+                       access_token=keys.Access_Token,
+                       access_token_secret=keys.Access_Token_Secret)
+
+'''
+
 # Authenticate to X (Twitter)
 def x_authentication():
-    auth = tweepy.OAuthHandler(keys.API_Key, keys.API_Key_Secret)
-    auth.set_access_token(keys.Access_Token, keys.Access_Token_Secret)
-
-    return tweepy.API(auth)
+    return tweepy.Client(bearer_token=keys.Bearer_Token,
+                       consumer_key=keys.API_Key,
+                       consumer_secret=keys.API_Key_Secret,
+                       access_token=keys.Access_Token,
+                       access_token_secret=keys.Access_Token_Secret)
 
 
 # Function to convert text to bold unicode
@@ -49,7 +59,7 @@ def tweet_creation():
 
 def post_tweet(api, tweet):
     try:
-        api.update_status(tweet)
+        api.create_tweet(text=tweet)
         print(f"Tweeted: {tweet}")
     except tweepy.TweepyException as e:
         print(f"Error: {e}")
