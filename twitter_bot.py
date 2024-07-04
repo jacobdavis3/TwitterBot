@@ -2,16 +2,6 @@ import tweepy
 import keys
 import random
 
-
-'''
-return tweepy.Client(bearer_token=keys.Bearer_Token,
-                       consumer_key=keys.API_Key,
-                       consumer_secret=keys.API_Key_Secret,
-                       access_token=keys.Access_Token,
-                       access_token_secret=keys.Access_Token_Secret)
-
-'''
-
 # Authenticate to X (Twitter)
 def x_authentication():
     return tweepy.Client(bearer_token=keys.Bearer_Token,
@@ -40,7 +30,7 @@ def bold_text(text):
 
 def tweet_creation():
     # Read quotes from file
-    with open('quotes2.txt', 'r') as file:
+    with open('quotes3.txt', 'r') as file:
         quotes = file.readlines()
 
     # Format the quote properly
