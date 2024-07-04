@@ -1,13 +1,15 @@
 # TwitterBot
 
-## GOAL: Make a bot on X (formerly known as Twitter) that tweets motivational quotes   every half hour
+## Follow my bot on X https://x.com/XperienceWisdm
+## GOAL: Make a bot on X, formerly known as twitter, that tweets quotes filled with
+## every at a desired frequency
 
 ### STEP 1: Scrape a website for motivational quotes (https://www.goodreads.com/quotes)
 
-### *Current Step* STEP 2: Create a developer account on X & a script for tweeting
+### STEP 2: Create a developer account on X & a script for tweeting
 
-### STEP 3: Research how to drive up reach on tweets
+### *Current Step* STEP 3: Research how to drive up reach on tweets
 
 ### STEP 4: Look at hosting options
 
-![Inspirational Sunrise!](https://blog-content.ixigo.com/wp-content/uploads/2018/07/blog4.jpg)
+![Cool Library!](https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_537,w_822/565070)
