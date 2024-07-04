@@ -10,3 +10,4 @@
 
 ### STEP 4: Look at hosting options
 
+![Inspirational Sunrise!](/assets/images/san-juan-mountains.jpg)
