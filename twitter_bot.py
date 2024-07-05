@@ -102,7 +102,7 @@ def main():
             tweet_with_hashtags = tweet_with_hashtags[:279]  # Truncate if necessary
         post_tweet(api, tweet_with_hashtags)
         count += 1
-        time.sleep(1800)
+        time.sleep(600)
 
 
 if __name__ == '__main__':
