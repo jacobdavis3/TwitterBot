@@ -22,7 +22,7 @@ def get_quotes_from_page(url):
 
     return quotes
 
-def scrape_quotes(base_url, max_pages=300):
+def scrape_quotes(base_url, max_pages=400):
     all_quotes = []
     page_num = 1
 
@@ -45,11 +45,11 @@ def main():
     # https://www.goodreads.com/quotes?page=1
     quotes_url = 'https://www.goodreads.com/quotes'
 
-    # Scrape up to 3000 quotes (100 pages)
-    quotes = scrape_quotes(quotes_url, max_pages=300)
+    # Scrape up to 12000 quotes (400 pages)
+    quotes = scrape_quotes(quotes_url, max_pages=400)
 
     # Save the quotes to a file
-    with open('quotes3.txt', 'w') as file:
+    with open('quotes1.txt', 'w') as file:
         for quote in quotes:
             file.write(f"{quote}\n")
 
