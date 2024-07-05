@@ -45,7 +45,7 @@ def tweet_creation():
         return f"{quote}\n― {author_bold}, {title_bold}"
     
     author_bold = bold_text(author_raw)
-    return f"{quote} ― {author_bold}"
+    return f"{quote}\n― {author_bold}"
 
 def add_hashtag_to_tweet(tweet):
     hashtags = [
