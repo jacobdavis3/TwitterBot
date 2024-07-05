@@ -5,7 +5,7 @@
 
 ### &#x2705; STEP 1: Scrape a website for motivational quotes (https://www.goodreads.com/quotes)
 
-### STEP 2: Create a developer account on X and a Script for tweeting
+### &#x2705; STEP 2: Create a developer account on X and a Script for tweeting
 
 ### *Current Step* STEP 3: Research how to drive up reach on tweets
 
