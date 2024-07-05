@@ -7,9 +7,9 @@
 
 ### &#x2705; STEP 2: Create a developer account on X and a Script for tweeting
 
-### *Current Step* STEP 3: Research how to drive up reach on tweets
+### &#x2705; STEP 3: Research how to drive up reach on tweets
 
-### STEP 4: Look at hosting options
+### *Current Step* STEP 4: Look at hosting options
 
 &#x1F600;
 
