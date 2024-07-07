@@ -9,7 +9,7 @@ on:
       # Runs every 30 minutes from 7am to 11pm Sunday to Thursday
       - cron: '0,30 7-22 * * 0-4'
       # Runs every 30 minutes from 7am to 6pm on Friday
-      - cron: '0,30 7-17 * * 5'
+      - cron: '0,30 7-17 * * 6'
 
 jobs:
   run-twitter-bot:
