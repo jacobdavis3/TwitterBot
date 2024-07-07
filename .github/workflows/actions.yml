@@ -9,9 +9,9 @@ on:
     # Scheduling is meant to optimize views
     schedule:
       # Runs every 30 minutes from 7am to 11pm Sunday to Thursday
-      - cron: '0,30 7-22 * * 0-4'
+      - cron: '0,15 7-22 * * 0-4'
       # Runs every 30 minutes from 7am to 6pm on Friday
-      - cron: '0,30 7-17 * * 6'
+      - cron: '0,15 7-17 * * 5'
 
 jobs:
   run-twitter-bot:
@@ -22,9 +22,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.12.2
+          python-version: 3.12
 
       - name: Install dependencies
         run: pip3 install -r requirements.txt

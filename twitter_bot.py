@@ -59,7 +59,7 @@ def add_hashtag_to_tweet(tweet):
     "#LifeLessons", "#Inspire", "#Motivate", "#Achieve", "#Hustle",
     "#Perseverance", "#Ambition", "#Dedication", "#MindsetMatters", 
     "#BookLovers", "#ArtDaily", "#Euro2024", "#Wimbledon", "#CopaAmerica",
-    "#Freedom", 
+    "#Freedom", "#NBA", "#FreeAgency",
 ]
 
     # Calculate remaining characters for hashtags
