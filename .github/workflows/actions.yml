@@ -4,6 +4,8 @@
 name: TwitterBot
 
 on:
+    push:
+        branches: [ "main" ]
     # Scheduling is meant to optimize views
     schedule:
       # Runs every 30 minutes from 7am to 11pm Sunday to Thursday
