@@ -1,15 +1,35 @@
 import tweepy
-import keys
 import random
 import time
+import os
 
 # Authenticate to X (Twitter)
 def x_authentication():
-    return tweepy.Client(bearer_token=keys.Bearer_Token,
-                       consumer_key=keys.API_Key,
-                       consumer_secret=keys.API_Key_Secret,
-                       access_token=keys.Access_Token,
-                       access_token_secret=keys.Access_Token_Secret)
+    return tweepy.Client(bearer_token=os.environ['Bearer_Token'],
+                       consumer_key=os.environ['API_Key'],
+                       consumer_secret=os.environ['API_Key_Secret'],
+                       access_token=os.environ['Access_Token'],
+                       access_token_secret=os.environ['Access_Token_Secret'])
+
+'''
+If instead of deploying it on GitHub actions (or a similar service) you want
+to run the bot from the command line, create a file in your directory (eg 'keys.py')
+where you have all your keys and import them as shown below:
+
+######################################################################
+
+    import keys
+
+    def x_authentication():
+        return tweepy.Client(bearer_token=keys.Bearer_Token,
+                        consumer_key=keys.API_Key,
+                        consumer_secret=keys.API_Key_Secret,
+                        access_token=keys.Access_Token,
+                        access_token_secret=keys.Access_Token_Secret)
+
+######################################################################
+                        
+'''
 
 
 # Function to convert text to bold unicode
@@ -60,7 +80,7 @@ def add_hashtag_to_tweet(tweet):
     "#LifeLessons", "#Inspire", "#Motivate", "#Achieve", "#Hustle",
     "#Perseverance", "#Ambition", "#Dedication", "#MindsetMatters", 
     "#BookLovers", "#ArtDaily", "#Euro2024", "#Wimbledon", "#CopaAmerica",
-    
+    "#Freedom", 
 ]
 
     # Calculate remaining characters for hashtags
@@ -92,18 +112,14 @@ def post_tweet(api, tweet):
 
 
 def main():
-    count = 0
-    while count < 10:
-        api = x_authentication()
-        tweet = tweet_creation()
-        tweet_with_hashtags = add_hashtag_to_tweet(tweet)
+    api = x_authentication()
+    tweet = tweet_creation()
+    tweet_with_hashtags = add_hashtag_to_tweet(tweet)
 
-        # Ensure the final tweet length is within the limit
-        if len(tweet_with_hashtags) > 280:
-            tweet_with_hashtags = tweet_with_hashtags[:279]  # Truncate if necessary
-        post_tweet(api, tweet_with_hashtags)
-        count += 1
-        time.sleep(150)
+    # Ensure the final tweet length is within the limit
+    if len(tweet_with_hashtags) > 280:
+        tweet_with_hashtags = tweet_with_hashtags[:279]  # Truncate if necessary
+    post_tweet(api, tweet_with_hashtags)
 
 
 if __name__ == '__main__':
