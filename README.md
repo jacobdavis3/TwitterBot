@@ -9,7 +9,7 @@
 
 ### &#x2705; STEP 3: Research how to drive up reach on tweets
 
-### *Current Step* STEP 4: Look at hosting options
+### &#x2705; STEP 4: Deploy using GitHub Actions
 
 &#x1F600;
 
