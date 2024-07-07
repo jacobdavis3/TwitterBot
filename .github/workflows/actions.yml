@@ -8,10 +8,10 @@ on:
         branches: [ "main" ]
     # Scheduling is meant to optimize views
     schedule:
-      # Runs every 30 minutes from 7am to 11pm Sunday to Thursday
-      - cron: '0,15 7-22 * * 0-4'
-      # Runs every 30 minutes from 7am to 6pm on Friday
-      - cron: '0,15 7-17 * * 5'
+      # Runs every 15 minutes from 7am to 11pm Sunday to Thursday
+      - cron: '0,15,30,45 7-22 * * 0-4'
+      # Runs every 15 minutes from 7am to 6pm on Friday
+      - cron: '0,15,30,45 7-17 * * 5'
 
 jobs:
   run-twitter-bot:
