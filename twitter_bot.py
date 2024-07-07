@@ -30,7 +30,7 @@ def bold_text(text):
 
 def tweet_creation():
     # Read quotes from file
-    with open('quotes3.txt', 'r') as file:
+    with open('quotes1.txt', 'r') as file:
         quotes = file.readlines()
 
     # Format the quote properly

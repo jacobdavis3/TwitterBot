@@ -14,15 +14,15 @@ def get_quotes_from_page(url):
     soup = BeautifulSoup(response.text, 'html.parser')
     quote_elements = soup.find_all('div', class_='quote')
 
-    quotes = []
+    quotes = set()
     for quote in quote_elements:
         text = quote.find('div', class_='quoteText').get_text(strip=True)
         if len(text) <= 277:
-            quotes.append(f"{text}")
+            quotes.add(f"{text}")
 
     return quotes
 
-def scrape_quotes(base_url, max_pages=400):
+def scrape_quotes(base_url, max_pages=100):
     all_quotes = []
     page_num = 1
 
@@ -45,8 +45,8 @@ def main():
     # https://www.goodreads.com/quotes?page=1
     quotes_url = 'https://www.goodreads.com/quotes'
 
-    # Scrape up to 12000 quotes (400 pages)
-    quotes = scrape_quotes(quotes_url, max_pages=400)
+    # Scrape up to 3000 quotes (100 pages)
+    quotes = scrape_quotes(quotes_url, max_pages=100)
 
     # Save the quotes to a file
     with open('quotes1.txt', 'w') as file:
