@@ -1,35 +1,14 @@
 import tweepy
 import random
-import time
 import os
 
 # Authenticate to X (Twitter)
 def x_authentication():
-    return tweepy.Client(bearer_token=os.environ['Bearer_Token'],
-                       consumer_key=os.environ['API_Key'],
-                       consumer_secret=os.environ['API_Key_Secret'],
-                       access_token=os.environ['Access_Token'],
-                       access_token_secret=os.environ['Access_Token_Secret'])
-
-'''
-If instead of deploying it on GitHub actions (or a similar service) you want
-to run the bot from the command line, create a file in your directory (eg 'keys.py')
-where you have all your keys and import them as shown below:
-
-######################################################################
-
-    import keys
-
-    def x_authentication():
-        return tweepy.Client(bearer_token=keys.Bearer_Token,
-                        consumer_key=keys.API_Key,
-                        consumer_secret=keys.API_Key_Secret,
-                        access_token=keys.Access_Token,
-                        access_token_secret=keys.Access_Token_Secret)
-
-######################################################################
-                        
-'''
+    return tweepy.Client(bearer_token=os.environ['BEARER_TOKEN'],
+                       consumer_key=os.environ['API_KEY'],
+                       consumer_secret=os.environ['API_KEY_SECRET'],
+                       access_token=os.environ['ACCESS_TOKEN'],
+                       access_token_secret=os.environ['ACCESS_TOKEN_SECRET'])
 
 
 # Function to convert text to bold unicode
