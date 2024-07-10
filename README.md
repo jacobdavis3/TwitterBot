@@ -1,6 +1,6 @@
-# TwitterBot
+# TwitterBot &#x1F426
 
-## https://x.com/XperienceWisdm <-- Follow my bot on X!
+## https://x.com/XperienceWisdm <-- Follow my bot on &#x1D54F!
 ## GOAL: Make a bot on X that tweets quotes at a desired frequency
 
 ### &#x2705; STEP 1: Scrape a website for motivational quotes (https://www.goodreads.com/quotes)
