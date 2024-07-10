@@ -23,7 +23,7 @@ def get_quotes_from_page(url):
     return quotes
 
 def scrape_quotes(base_url, max_pages=100):
-    all_quotes = []
+    all_quotes = set()
     page_num = 1
 
     while len(all_quotes) < max_pages * 30:  # Counted 30 quotes per page
@@ -32,12 +32,12 @@ def scrape_quotes(base_url, max_pages=100):
         if not quotes:
             break
 
-        all_quotes.extend(quotes)
+        all_quotes.update(quotes)
         print(f'Finished scraping page {page_num}')
         page_num += 1
         time.sleep(3)  # Not hammering server
 
-    return all_quotes[:max_pages * 30]  # Limit to the desired number of quotes
+    return list(all_quotes)  # Limit to the desired number of quotes
 
 def main():
     print('Starting to scrape')
@@ -49,7 +49,7 @@ def main():
     quotes = scrape_quotes(quotes_url, max_pages=100)
 
     # Save the quotes to a file
-    with open('quotes1.txt', 'w') as file:
+    with open('quotes.txt', 'w') as file:
         for quote in quotes:
             file.write(f"{quote}\n")
 
