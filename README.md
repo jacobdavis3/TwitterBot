@@ -9,6 +9,8 @@
 
 ### &#x2705; STEP 3: Deploy using GitHub Actions
 
+### &#x1F532; STEP 4: Create a script to like tweets
+
 &#x1F600;
 
 ![Cool Library!](https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_537,w_822/565070)
