@@ -59,7 +59,23 @@ def add_hashtag_to_tweet(tweet):
     "#LifeLessons", "#Inspire", "#Motivate", "#Achieve", "#Hustle",
     "#Perseverance", "#Ambition", "#Dedication", "#MindsetMatters", 
     "#BookLovers", "#ArtDaily", "#Euro2024", "#Wimbledon", "#CopaAmerica",
-    "#Freedom", "#NBA", "#FreeAgency",
+    "#Freedom", "#NBA", "#FreeAgency", "#love", "#instagood", "#photooftheday", "#fashion", "#beautiful", "#happy", 
+    "#cute", "#tbt", "#like4like", "#followme", "#picoftheday", "#follow", "#me", 
+    "#selfie", "#summer", "#art", "#instadaily", "#friends", "#repost", "#nature", 
+    "#girl", "#fun", "#style", "#food", "#instalike", "#likeforlike", "#family", 
+    "#travel", "#fitness", "#igers", "#tagsforlikes", "#follow4follow", "#nofilter", 
+    "#life", "#beauty", "#amazing", "#instamood", "#instagram", "#photography", 
+    "#vscocam", "#sun", "#photo", "#music", "#beach", "#followforfollow", 
+    "#bestoftheday", "#sky", "#ootd", "#sunset", "#dog", "#quotes", "#inspiration", 
+    "#business", "#lovequotes", "#positivevibes", "#mindset", "#wisdom", "#success", 
+    "#happiness", "#smile", "#mindfulness", "#motivation", "#health", "#quoteoftheday", 
+    "#dailyquote", "#inspirationalquotes", "#motivationalquotes", "#lifequotes", 
+    "#wordsofwisdom", "#thoughtoftheday", "#quotestoliveby", "#positivequotes", 
+    "#quote", "#quotesdaily", "#inspire", "#quoteoftheday", "#wisewords", 
+    "#quotestagram", "#lifeadvice", "#deepthoughts", "#goodvibes", "#spiritual", 
+    "#mindsetmatters", "#goalsetting", "#vision", "#perspective", "#selfgrowth", 
+    "#selfdevelopment", "#lifelessons", "#believe", "#thoughts", "#inspiring", 
+    "#reflect", "#innerpeace", "#motivationmonday", "#thoughtful", "#dreambig"
 ]
 
     # Calculate remaining characters for hashtags
