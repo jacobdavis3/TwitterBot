@@ -7,7 +7,7 @@ on:
     # Scheduling is meant to optimize views
     schedule:
       # Runs every 20 minutes from 7am to 2am Sunday to Thursday (EST)
-      - cron: '0,20,40 0-7,12-23 * * 0-4'
+      - cron: '0,20,40 0-5,12-23 * * 0-4'
       # Runs every 20 mins on Friday b/w 7am and 11am Friday (EST)
       - cron: '0,20,40 12-16 * * 5'
 
