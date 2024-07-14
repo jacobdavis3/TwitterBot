@@ -9,7 +9,7 @@
 
 ### &#x2705; STEP 3: Deploy using GitHub Actions
 
-### &#x1F532; STEP 4: Create a script to like tweets
+### &#x1F532; STEP 4: Create a script to reply to tweets
 
 &#x1F600;
 
