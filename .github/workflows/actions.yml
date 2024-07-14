@@ -4,12 +4,10 @@
 name: TwitterBot
 
 on:
-    # Scheduling is meant to optimize views
+    # Schedule a couple tweets a day
     schedule:
-      # Runs every 30 minutes from 7am to 1am Sunday to Thursday (EST)
-      - cron: '0,30 0-5,12-23 * * 0-4'
-      # Runs every 30 mins on Friday b/w 7am and 11am Friday (EST)
-      - cron: '0,30 12-16 * * 5'
+      # Runs every Sunday - Friday at 1pm and 2pm (EST)
+      - cron: '0 16,17 * * 0-5'
 
 jobs:
   run-twitter-bot:
