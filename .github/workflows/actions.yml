@@ -7,7 +7,7 @@ on:
     # Schedule a couple tweets a day
     schedule:
       # Runs every hoour from 7am to 11pm Sunday to Thursday
-      - cron: '0 7-22 * * 0-4'
+      - cron: '0 7-21 * * 0-4'
       # Runs every hour from 7am to 6pm on Friday
       - cron: '0 7-17 * * 5'
 
